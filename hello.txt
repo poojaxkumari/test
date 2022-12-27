@@ -1,0 +1,4 @@
+
+git config --global user.name "POOJA KUMARI"
+
+git config --global user.email "puja.lprk@gmail.com"
